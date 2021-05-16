@@ -18,7 +18,7 @@ Using the Finder app, you can create a new directory by right-clicking and picki
    $ pwd
    ```
 
-   `pwd` is short for _`p`rint `w`orking `d`irectory_. It displays your current location in the computer file system. We can use it to make sure we are where we expect to be.
+   `pwd` is short for **`p`rint `w`orking `d`irectory**. It displays your current location in the computer file system. We can use it to make sure we are where we expect to be.
 
 ## Directory within a directory **(+ Command History)**
 
@@ -37,12 +37,3 @@ We can also create a directory within a directory, and can keep nesting folders 
    ```
 
 3. Hit up-arrow three times to run `pwd`. This'll show us the previous commands we ran, so we don't have to type them everytime.
-
----
-
-## Task (10 min)
-
-1. Use this [Terminal Cheat Sheet](https://github.com/0nn0/terminal-mac-cheatsheet#english-version) and explore the Terminal.
-2. Create a directory called "Development" either in your home directory (mac/linux) or in your Desktop (windows). You'll put all your work in the bootcamp in this Development directory.
-
----

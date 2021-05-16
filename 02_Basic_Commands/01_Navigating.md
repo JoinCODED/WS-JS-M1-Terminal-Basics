@@ -46,15 +46,3 @@ $ cd ..
 ```
 
 The `..` means _one directory out_.
-
----
-
-### **Task**: Take 5 minutes to explore these commands and navigate the directories in your computer.
-
----
-
-Here's a list of the Terminal commands we just used:
-
-- `ls`: Lists files and directories.
-- `cd`: Changes directory. Example: `cd MyProjects` to go into the `MyProjects` directory.
-- `cd ..`: Exiting current directory.
