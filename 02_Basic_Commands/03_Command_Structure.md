@@ -17,3 +17,7 @@ The second "word" is the first _argument_ in the command. Every word after is an
 This command will create a folder called `example1` and another folder called `example2`.
 
 `mkdir` is the name of the command, `example1` is the _first_ argument, `example2` is the _second_ argument.
+
+## Cheatsheet
+
+Here is a [cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet#english-version), enjoy exploring the terminal commands!
