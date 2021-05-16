@@ -17,12 +17,3 @@ The second "word" is the first _argument_ in the command. Every word after is an
 This command will create a folder called `example1` and another folder called `example2`.
 
 `mkdir` is the name of the command, `example1` is the _first_ argument, `example2` is the _second_ argument.
-
-# List of Commands
-
-Here's a list of the commands we used today, that you'll likely use often:
-
-- `ls`: Lists files and folders in the current working directory.
-- `cd`: Changes the current working directory.
-- `pwd`: Shows the location of the current working directory.
-- `mkdir`: Create a new directory.
